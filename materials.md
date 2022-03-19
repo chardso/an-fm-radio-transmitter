@@ -9,4 +9,4 @@
 - Audio plug
 - battery clip
 - soldering skill
-- Audoi source
+- Audio source
