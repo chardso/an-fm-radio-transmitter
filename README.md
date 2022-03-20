@@ -7,6 +7,7 @@ Provided materials and circuit boards but in this case using locally available m
 - screw drivers(radio set)
 - blade
 - solder sucker
+- metallic ruler.
 # skills
 In order to carry out this project;
 - one must have a skill in soldering
