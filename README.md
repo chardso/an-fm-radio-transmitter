@@ -13,6 +13,7 @@ In order to carry out this project;
 - one must have a skill in soldering
 ![](Images/lowersideofthecircuitboard.jpg)
 - familiar with radio wiring
+![](Images/radiowiring.jpg)
 - familiar with electrical transmission components such as capacitors, resistors,coils, ceramic capacitors etc 
 ![](Images/capacitor16v470uf.jpg)
 ![](Images/ceramiccapacitor.jpg)
