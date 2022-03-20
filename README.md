@@ -14,3 +14,4 @@ In order to carry out this project;
 - familiar with radio wiring
 - familiar with electric transmission components such as capacitors, resistors,coils, ceramic capacitors etc 
 ![](Images/capacitor16v470uf.jpg)
+![](Images/ceramiccapacitor.jpg)
